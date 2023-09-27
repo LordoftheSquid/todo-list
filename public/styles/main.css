@@ -6,6 +6,12 @@ main{
     margin-top: 25px;
 }
 
+.container.banner {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;;
+}
+
 .container{
     display: grid;
     grid-template-columns: 200px 250px 250px;
